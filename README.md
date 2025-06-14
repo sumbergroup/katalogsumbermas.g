@@ -1,0 +1,1 @@
+# katalogsumbermas.g
